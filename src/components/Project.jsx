@@ -1,6 +1,7 @@
 import React from 'react';
 import cryptoImg from "../assets/projects/crypto.png";
 import apiImg from "../assets/projects/api.png";
+import portfolioImg from "../assets/projects/portfolio.png";
 import { MdVisibility } from "react-icons/md";
 import { FaGithub } from "react-icons/fa";
 
@@ -41,6 +42,20 @@ function Project() {
             </div>
             {/* Project name */}
             <h4 className='font-semibold'>Youtube Subscriber Api</h4>
+          </div>
+          {/* Third project */}
+          <div className='flex flex-col items-center justify-center gap-2'>
+            <div className='peer rounded-lg overflow-hidden bg-slate-400 border-2 border-amber-500'>
+              <img src={portfolioImg} alt="crypto app" height="350" width="350" />
+            </div>
+            <div className='hidden hover:flex peer-hover:flex gap-4 p-2 rounded-xl absolute'>
+              {/* Demo link */}
+              <a className='bg-amber-400 py-1 px-5 rounded-lg border-2' href="https://own-cryptoverse.netlify.app/" target='blank'><MdVisibility size={20} /></a>
+              {/* GitHub link */}
+              <a className='bg-amber-400 py-1 px-5 rounded-lg border-2' href="https://github.com/Yogesh-Ginti/CryptoProject.git" target='blank'><FaGithub size={20} /></a>
+            </div>
+            {/* Project name */}
+            <h4 className='font-semibold'>MY Portfolio</h4>
           </div>
         </div>
       </div>
