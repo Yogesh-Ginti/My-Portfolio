@@ -50,7 +50,7 @@ function Project() {
             </div>
             <div className='hidden hover:flex peer-hover:flex gap-4 p-2 rounded-xl absolute'>
               {/* Demo link */}
-              <a className='bg-amber-400 py-1 px-5 rounded-lg border-2' href="https://yogesh-portfolio-g48a67zc6-yogesh-gintis-projects.vercel.app" target='blank'><MdVisibility size={20} /></a>
+              <a className='bg-amber-400 py-1 px-5 rounded-lg border-2' href="https://yogesh-portfolio-git-main-yogesh-gintis-projects.vercel.app" target='blank'><MdVisibility size={20} /></a>
               {/* GitHub link */}
               <a className='bg-amber-400 py-1 px-5 rounded-lg border-2' href="https://github.com/Yogesh-Ginti/My-Portfolio.git" target='blank'><FaGithub size={20} /></a>
             </div>
