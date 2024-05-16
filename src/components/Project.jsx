@@ -9,12 +9,12 @@ function Project() {
   return (
     // Project section container
     <>
-      <div id='project' className='p-2 h-screen w-full'>
+      <div id='project' className='p-2 w-full'>
         {/* Title */}
         <p className='text-center text-gray-700'>Have a Look</p>
-        <h1 className='text-center text-4xl font-semibold'>My Project</h1>
+        <h1 className='text-center text-4xl font-semibold mb-4'>My Project</h1>
         {/* Project cards */}
-        <div className='h-5/6 flex flex-wrap justify-center items-center gap-10'>
+        <div className='flex flex-wrap justify-center items-center gap-10'>
           {/* First project */}
           <div className='flex flex-col items-center justify-center gap-2'>
             <div className='peer rounded-lg overflow-hidden bg-slate-400 border-2 border-amber-500'>
