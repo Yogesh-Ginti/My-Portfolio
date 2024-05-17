@@ -8,7 +8,7 @@ function Contact() {
   return (
     // Contact section container
     <>
-      <div id='contact' className='p-2 w-full'>
+      <div id='contact' className='mt-10 p-2 w-full'>
         {/* Title */}
         <p className='text-center text-gray-700'>Get in Reach</p>
         <h1 className='text-center text-4xl font-semibold'>Contact Me</h1>
