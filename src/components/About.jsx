@@ -16,7 +16,7 @@ function About() {
         <div className='flex flex-col sm:flex-row  gap-6 items-center'>
           {/* Profile image */}
           <div className='rounded-2xl overflow-hidden'>
-            <img src="./images/pic.jpg" alt="pic" height="600" width="600" />
+            <img src="./images/maindp.jpg" alt="pic" height="400" width="400" />
           </div>
           {/* Information section */}
           <div className='sm:w-[50vw] w-full'>
