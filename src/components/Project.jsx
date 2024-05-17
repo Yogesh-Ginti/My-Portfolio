@@ -36,9 +36,9 @@ function Project() {
             </div>
             <div className='hidden hover:flex peer-hover:flex gap-4 p-2 rounded-xl absolute'>
               {/* Demo link */}
-              <a className='bg-amber-400 py-1 px-5 rounded-lg border-2' href="https://own-cryptoverse.netlify.app/"><MdVisibility size={20} /></a>
+              <a className='bg-amber-400 py-1 px-5 rounded-lg border-2' href="https://get-youtube-subscriber-3k8h.onrender.com"><MdVisibility size={20} /></a>
               {/* GitHub link */}
-              <a className='bg-amber-400 py-1 px-5 rounded-lg border-2' href="https://github.com/Yogesh-Ginti/CryptoProject.git"><FaGithub size={20} /></a>
+              <a className='bg-amber-400 py-1 px-5 rounded-lg border-2' href="https://github.com/Yogesh-Ginti/Get_YOUTUBE_SUBSCRIBER.git"><FaGithub size={20} /></a>
             </div>
             {/* Project name */}
             <h4 className='font-semibold'>Youtube Subscriber Api</h4>
