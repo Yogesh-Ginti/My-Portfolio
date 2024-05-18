@@ -13,7 +13,7 @@ function About() {
       {/* Main content container */}
       <div className='sm:h-[90vh] flex flex-col justify-center items-center mt-2'>
         {/* Two-column layout */}
-        <div className='flex flex-col sm:flex-row  gap-6 items-center'>
+        <div className='flex flex-col sm:flex-row  gap-6 items-center sm:content-around'>
           {/* Profile image */}
           <div className='rounded-2xl overflow-hidden'>
             <img src="./images/maindp.jpg" alt="pic" height="300" width="300" />
