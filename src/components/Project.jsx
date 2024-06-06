@@ -2,7 +2,7 @@ import React from 'react';
 import cryptoImg from "../assets/projects/crypto.png";
 import apiImg from "../assets/projects/api.png";
 import portfolioImg from "../assets/projects/portfolio.png";
-import yostreamImg from "../assets/projects/portfolio.png";
+import yostreamImg from "../assets/projects/yostreamImg.png";
 import { MdVisibility } from "react-icons/md";
 import { FaGithub } from "react-icons/fa";
 
