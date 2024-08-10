@@ -38,7 +38,7 @@ function Home() {
           </h3>
           {/* Buttons */}
           <div className='flex gap-6'>
-            <a target='blank' href='https://drive.google.com/file/d/1HMp66qZVykccthPoJx6c9bQi_uUBuEXH/view?usp=drive_link' className='text-gray-600 font-semibold bg-white border-2 px-3 py-2 border-black rounded-3xl'>Download CV</a>
+            <a target='blank' href='https://docs.google.com/document/d/1r-6F7faF6W8MjDU0FHPw6LMRDo8cnW47vxQUo6n_Emw/edit?usp=sharing' className='text-gray-600 font-semibold bg-white border-2 px-3 py-2 border-black rounded-3xl'>Download CV</a>
             <a href='#contact' className='text-white bg-black border-2 px-3 py-2 border-black rounded-3xl'>Contact Info</a>
           </div>
           {/* Social media icons */}
