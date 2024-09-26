@@ -13,10 +13,10 @@ function Header() {
 
   return (
     // Header container
-    <div className='sm:fixed sm:bg-lime-400 w-full'>
+    <div className='sm:fixed bg-white shadow-lg md:h-16 w-full'>
       <div className='p-3 flex iflex-wrap justify-between sm:justify-around '>
         {/* Site title */}
-        <h1 className='inline font-semibold text-3xl'>Yogesh's Portfolio</h1>
+        <h1 className='inline font-semibold text-3xl text-red-600'>Yogesh's Portfolio</h1>
 
         {/* Mobile menu */}
         <span className='p-2 absolute right-2 sm:hidden'>
