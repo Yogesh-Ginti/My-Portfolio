@@ -3,6 +3,7 @@ import youtube from '../assets/projects/api.png'
 import yostream from '../assets/projects/yostream.png'
 import ajio from '../assets/projects/ajio.png'
 import nexthire from '../assets/projects/nexthire.png'
+import hirematch from '../assets/projects/hirematch.png'
 
 export const projects = [
   {
@@ -39,5 +40,12 @@ export const projects = [
     image:nexthire,
     repo:'https://github.com/Yogesh-Ginti/NextHire.git',
     url:'https://next-hire-sage.vercel.app/',
+  },
+  {
+    id:6,
+    title:'HireMatch Jobs APIs',
+    image:hirematch,
+    repo:'https://github.com/Yogesh-Ginti/HireMatch-API-Backend.git',
+    url:'https://next-hire-backend.vercel.app/',
   }
 ]
