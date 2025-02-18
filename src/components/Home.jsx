@@ -17,7 +17,7 @@ function Home() {
         {/* Text content */}
         <div className='flex flex-col gap-6 items-center'>
           {/* Greeting */}
-          <h4 className='text-gray-500 font-semibold'>Hello, I'm</h4>
+          <h4 className='text-gray-600 font-semibold'>Hello, I'm</h4>
           {/* Name */}
           <h2 className='text-black font-semibold text-3xl'>Yogesh Ginti</h2>
           {/* Role */}
@@ -38,7 +38,7 @@ function Home() {
           </h3>
           {/* Buttons */}
           <div className='flex gap-6'>
-            <a target='blank' href='https://docs.google.com/document/d/1Ry5OwkOQz_pkv3wJl4Cuvx6ohCHuLtGf2BBqkuwyByM/edit?usp=sharing' className='text-gray-600 font-semibold bg-white border-2 px-3 py-2 border-black rounded-3xl'>Download CV</a>
+            <a target='blank' href='https://drive.google.com/file/d/1g3nvdqLUDhUcqghoA5gEuNMxcY1GwG1X/view?usp=sharing' className='text-gray-600 font-semibold bg-white border-2 px-3 py-2 border-black rounded-3xl'>Download CV</a>
             <a href='#contact' className='text-white bg-black border-2 px-3 py-2 border-black rounded-3xl'>Contact Info</a>
           </div>
           {/* Social media icons */}
