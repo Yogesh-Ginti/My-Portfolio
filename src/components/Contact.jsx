@@ -17,7 +17,9 @@ function Contact() {
           {/* Email */}
           <div className='flex justify-center items-center gap-2 p-2'>
             <CgMail size={30} />
-            <p>yogeshginti@gmail.com</p>
+            <a href="mailto:yogeshginti@gmail.com">
+              Send email
+            </a>
           </div>
           {/* LinkedIn */}
           <div className='flex justify-center items-center gap-2 p-2'>
